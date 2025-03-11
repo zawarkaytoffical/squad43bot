@@ -1,0 +1,10 @@
+aiohttp
+asyncio
+discord.py
+dotenv
+google-api-python-client
+googletrans==4.0.0-rc1
+logging
+pyrebase4
+requests
+yt-dlp
