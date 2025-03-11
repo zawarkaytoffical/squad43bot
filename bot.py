@@ -4,7 +4,7 @@ import discord
 from discord.ext import commands
 import random
 from discord.ui import Button, View
-import pyrebase
+import pyrebase4
 import asyncio
 import signal
 from datetime import datetime, timedelta
